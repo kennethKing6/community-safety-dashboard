@@ -13,4 +13,4 @@ Features
 Technology Stack
 
 Frontend: React, Redux, CSS/SASS, Webpack, Babel
-Backend: Node.js, Express, MongoDB, Mongoose
+Backend: Node.js, Express, MYSQL
